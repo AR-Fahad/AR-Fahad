@@ -28,3 +28,5 @@
 ## Current States
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR-Fahad&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark&utcOffset=8)
