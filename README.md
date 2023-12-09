@@ -8,7 +8,7 @@
 
 ## Technologies that I know
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express)](https://skillicons.dev)
+<span style="display:block;text-align:center">[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express)](https://skillicons.dev)</span>
 
 ## Last Three Projects 👇
 
@@ -28,6 +28,6 @@
 
 ## Current States
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR-Fahad&theme=dark)
+<span style="display:block;text-align:center">![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR-Fahad&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark&utcOffset=8)</span>
