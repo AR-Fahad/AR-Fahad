@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express)](https://skillicons.dev)
 
-## Last Three projects
+## Last Three Projects 👇
 
 1. Home page show beautiful little animation.
    There are 3 links in the navbar with register button.
