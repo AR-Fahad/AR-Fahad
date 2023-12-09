@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/assets/banner.gif "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/banner.gif "Welcome to My Profile")
 
 ## Overview
 
