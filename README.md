@@ -5,13 +5,9 @@
 - 🔭 I’m a junior frontend Web Developer.
 - 🤔 I’m trying to do my best effort in my each project.
 
-## Short Description
+## Technologies that I know
 
-I work with some technologies like HTML, CSS, JavaScript, React, MongoDB, React-Router-Dom and Firebase.
-
-## Technologies that I know some & more
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,react-router,mongodb,nodejs,git,firebase,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express)](https://skillicons.dev)
 
 ## Last Three projects
 
