@@ -4,6 +4,7 @@
 
 - 🔭 I’m a junior frontend Web Developer.
 - 🤔 I’m trying to do my best effort in my each project.
+- 👀 I always explore the new things that can make website more attractive.
 
 ## Technologies that I know
 
