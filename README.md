@@ -38,7 +38,7 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR-Fahad&theme=dark" />
 </p>
-<div style="display: grid; place-items: center; height: 100%;">
+<div align="center" >
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Fahad&theme=dark&show_icons=true&hide_border=true&layout=compact" 
     alt="AR-Fahad's GitHub Stats" 
