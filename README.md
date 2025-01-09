@@ -40,11 +40,11 @@
 </p>
 <div align="center" >
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Fahad&theme=dark&utcOffset=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Fahad&theme=dark" 
     alt="AR-Fahad's GitHub Stats" 
   />
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark&utcOffset=8" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark" 
     alt="Productive Time" 
   />
 </div>
