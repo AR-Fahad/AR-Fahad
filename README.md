@@ -8,7 +8,7 @@
 
 ## Technologies that I know
 
-<div style="display: flex; justify-content: center;">
+<div style="display: grid; place-items: center; height: 100%;">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express,ts,postgres,prisma,redux,mongoose,c,cpp" />
 </div>
 
