@@ -8,7 +8,9 @@
 
 ## Technologies that I know
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express,ts,postgres,prisma,redux,mongoose,c,cpp" /></p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express,ts,postgres,prisma,redux,mongoose,c,cpp" />
+</div>
 
 ## Current States
 
