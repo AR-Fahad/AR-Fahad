@@ -8,8 +8,10 @@
 
 ## Technologies that I know
 
-<div style="display: grid; place-items: center; height: 100%;">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express,ts,postgres,prisma,redux,mongoose,c,cpp" />
+<div  align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,postgres,prisma,redux,mongoose,c,cpp" />
 </div>
 
 ## Current States
