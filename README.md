@@ -1,4 +1,4 @@
-<div align="center">
+### <div align="center">
  <h2>
   Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
   <br/>
@@ -6,7 +6,7 @@
   <h2>
 </div>
 ## Overview
-   <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00F0FF&center=true&vCenter=true&width=800&height=70&duration=4000&pause=2000&lines=Junior+full-stack+web+developer;From+Bangladesh" alt="Typing animation" />/div>
+   <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00F0FF&center=true&vCenter=true&width=800&height=70&duration=4000&pause=2000&lines=Junior+full-stack+web+developer;From+Bangladesh" alt="Typing animation" /></div>
 - 🔭 I’m a junior full-stack Web Developer.
 - 🤔 I’m trying to do my best effort in my each project.
 - 👀 I always explore the new things that can make website more attractive.
