@@ -25,7 +25,9 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" width="30" /> Technologies that I know
 
 <div >
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express,ts,postgres,prisma,redux,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=firebase,express,ts,postgres,prisma,redux,c,cpp" />
 </div>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5%> Current States
