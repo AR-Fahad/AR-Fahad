@@ -1,8 +1,8 @@
-![The San Juan Mountains are beautiful!](/assets/banner.gif "Welcome to My Profile")
+#### Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 ## Overview
 
-- 🔭 I’m a junior frontend Web Developer.
+- 🔭 I’m a junior full-stack Web Developer.
 - 🤔 I’m trying to do my best effort in my each project.
 - 👀 I always explore the new things that can make website more attractive.
 
@@ -11,7 +11,7 @@
 <div  align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=ts,postgres,prisma,redux,mongoose,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,postgres,prisma,redux,c,cpp" />
 </div>
 
 ## Current States
