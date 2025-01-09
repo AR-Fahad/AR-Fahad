@@ -6,7 +6,7 @@
 - 🤔 I’m trying to do my best effort in my each project.
 - 👀 I always explore the new things that can make website more attractive.
 
-## Technologies that I know <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" width="50" height="50" />
+## Technologies that I know <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" width="50" height="30" />
 
 <div  align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express" />
