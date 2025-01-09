@@ -17,6 +17,8 @@
 - 🤔 I’m trying to do my best effort in my each project.
 - 👀 I always explore the new things that can make website more attractive.
 
+  <br/>
+
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" width="30" /> Technologies that I know
 
 <div>
@@ -24,6 +26,8 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=firebase,express,ts,postgres,prisma,redux,c,cpp" />
 </div>
+
+<br/>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5%> Current States
 
