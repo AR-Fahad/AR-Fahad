@@ -48,7 +48,7 @@
   />
 </div>
 
-## Coonect with me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="5%" /> Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ashfaqur-rahman-fahad-00ba5b277/" target="_blank">
