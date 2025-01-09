@@ -10,6 +10,10 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00F0FF&center=true&vCenter=true&width=600&height=70&duration=4000&pause=2000&lines=Junior+full-stack+web+developer;From+Bangladesh" alt="Typing animation" />
 </div>
 
+<div align="center">
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="300" />
+</div>
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="30" /> Overview
 
 - 🔭 I’m a junior full-stack Web Developer.
