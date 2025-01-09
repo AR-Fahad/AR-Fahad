@@ -43,7 +43,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Fahad&theme=dark&show_icons=true&hide_border=true&layout=compact&utcOffset=8"  
   />
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark&utcOffset=8&show_icons=true&hide_border=true&layout=compact&utcOffset=8" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark&utcOffset=8" 
     alt="Productive Time" 
   />
 </div>
