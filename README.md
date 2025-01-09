@@ -6,7 +6,7 @@
 - 🤔 I’m trying to do my best effort in my each project.
 - 👀 I always explore the new things that can make website more attractive.
 
-## Technologies that I know
+## Technologies that I know <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Skills" width="25" height="25" />
 
 <div  align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express" />
