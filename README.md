@@ -15,14 +15,14 @@
   <img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" /> Overview
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="30" /> Overview
 
 - 🔭 I’m a junior full-stack Web Developer.
 - 🏫 Study at Metroplitan University in Computer Science & Engineering.
 - 🤔 I’m trying to do my best effort in my each project.
 - 👀 I always explore the new things that can make website more attractive.
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" width="25" height="25" /> Technologies that I know
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" width="30" /> Technologies that I know
 
 <div  align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git,firebase,express" />
