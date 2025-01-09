@@ -1,6 +1,9 @@
 <div align="center">
- Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
- <h2>Welcome to Ashfaqur Rahman Fahad's Profile</h2>
+ <h2>
+  Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+  <br/>
+  Welcome to Ashfaqur Rahman Fahad's Profile
+  <h2>
 </div>
 
 ## Overview
