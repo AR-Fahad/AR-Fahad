@@ -10,11 +10,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00F0FF&center=true&vCenter=true&width=800&height=70&duration=4000&pause=2000&lines=Junior+full-stack+web+developer;From+Bangladesh" alt="Typing animation" />
 </div>
 
-<br clear="both" />
-<div > 
-  <img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
-</div>
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="30" /> Overview
 
 - 🔭 I’m a junior full-stack Web Developer.
@@ -24,7 +19,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills" width="30" /> Technologies that I know
 
-<div >
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,mongodb,nodejs,git" />
   <br/>
   <img src="https://skillicons.dev/icons?i=firebase,express,ts,postgres,prisma,redux,c,cpp" />
