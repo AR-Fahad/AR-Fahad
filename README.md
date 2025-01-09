@@ -40,7 +40,7 @@
 </p>
 <div align="center" >
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Fahad&theme=dark&show_icons=true&hide_border=true&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Fahad&theme=dark&utcOffset=8" 
     alt="AR-Fahad's GitHub Stats" 
   />
   <img 
