@@ -42,12 +42,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Fahad&theme=dark&show_icons=true&hide_border=true&layout=compact" 
     alt="AR-Fahad's GitHub Stats" 
-    style=""
+    style="height:100%"
   />
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark&utcOffset=8" 
     alt="Productive Time" 
-    style=""
+    style="height:100%"
   />
 </div>
 
