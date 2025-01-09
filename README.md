@@ -38,16 +38,16 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR-Fahad&theme=dark" />
 </p>
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; height: 200px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; height: 200px;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Fahad&theme=dark&show_icons=true&hide_border=true&layout=compact" 
     alt="AR-Fahad's GitHub Stats" 
-    style="flex: 1; height: 300; width: 100%;"
+    style="flex: 1;"
   />
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AR-Fahad&theme=dark&utcOffset=8" 
     alt="Productive Time" 
-    style="flex: 1; height: 300; width: 100%;"
+    style="flex: 1;"
   />
 </div>
 
